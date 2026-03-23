@@ -1,0 +1,1 @@
+create table bag(name varchar(100),price money,zips_contains int)
